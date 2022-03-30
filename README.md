@@ -2,4 +2,4 @@
 Criando o meu Primeiro Repositório no GitHub - Desafio GitHub
 
 ## Links úteis
-[Sintaxe Basica Markdow] (https://wwww.markdownguide.org/basic-syntax)
+[Sintaxe Basica Markdow] (https://www.markdownguide.org/basic-syntax)
